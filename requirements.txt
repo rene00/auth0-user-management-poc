@@ -3,3 +3,5 @@ flask_restful
 webargs
 requests
 python-dotenv
+python-jose
+httpie
